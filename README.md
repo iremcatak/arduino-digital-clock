@@ -1,1 +1,13 @@
-# arduino-digital-clock
+## Components for digital clock
+-Arduino uno <br/>
+-Male-male jumpers <br/>
+-Male-female jumpers<br/>
+-Push button<br/>
+-Resistor 100 ohm<br/>
+-Rtc clock module(DS1302)<br/>
+-3V lityum battery<br/>
+-2x16 lcd screen <br/>
+-Character LCD I2C/IIC module<br/>
+-Microsd cart to Sd cart transformer +microsd cart<br/>
+-Sd card module<br/>
+-Speaker
