@@ -8,6 +8,6 @@
 -3V lityum battery<br/>
 -2x16 lcd screen <br/>
 -Character LCD I2C/IIC module<br/>
--Microsd card to Sd card transformer +microsd card<br/>
+-Micro Sd card to Sd card transformer + Micro Sd card<br/>
 -Sd card module<br/>
 -Speaker
